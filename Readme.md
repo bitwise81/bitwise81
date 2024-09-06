@@ -50,14 +50,9 @@
 <br><br><h3><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"><img src="https://img.shields.io/badge/Stats-8A2BE2"/></h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwerty8181&show_icons=true&locale=en&layout=compact" alt="qwerty8181" /></p>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=qwerty8181&show_icons=true&locale=en" alt="qwerty8181" /></div><br>
 
 <br/>
 <a>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=qwerty8181&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=qwerty8181&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=qwerty8181&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true"  />
-    </picture>
+    
   </a>
 </body>
