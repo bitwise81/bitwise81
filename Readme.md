@@ -20,10 +20,6 @@
   <br><br> 
     <h3><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"><img src="https://img.shields.io/badge/Connect-8A2BE2"/>  <img src="https://komarev.com/ghpvc/?username=qwerty8181&label=Profile%20views&color=0e75b6&style=flat" alt="Bitwise" /><br>
  <br></h3>
-     <a href="https://www.instagram.com/eighty_one___" target="blank"><img src="https://img.shields.io/twitter/follow/Rishabh?logo=instagram&style=for-the-badge" alt="Rishabh" /></a>
-  <a href="https://codepen.io/rishabhmishra" target="blank"><img src="https://img.shields.io/twitter/follow/r1shabhmishra?logo=codepen&style=for-the-badge" alt="rishabhmishra" /></a>
-    <a href="https://twitter.com/rishabh67896796" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh67896796?logo=twitter&style=for-the-badge" alt="rishabh67896796" /></a>
-    <a href="https://linkedin.com/in/r1shabh81" target="blank"><img src="https://img.shields.io/twitter/follow/r1shabh81?logo=linkedin&style=for-the-badge" alt="r1shabh81" /></a>
    
 # 💻 Tech Stack:
 <picture>
