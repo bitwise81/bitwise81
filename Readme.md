@@ -16,7 +16,7 @@
 - Ask me about **Python Programming** , **Algorithms** , **Operating Systems** , **Web Development** <br>
 - Fun fact **I play sports too.** <br>
 - I write Blogs at <a href="https://eightbit.netlify.app" >**8BIT Blog**</a>
-- Reach me at **<rishabhmishra.81e@gmail.com>** <br>
+
   <br><br> 
     <h3><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"><img src="https://img.shields.io/badge/Connect-8A2BE2"/>  <img src="https://komarev.com/ghpvc/?username=qwerty8181&label=Profile%20views&color=0e75b6&style=flat" alt="Bitwise" /><br>
  <br></h3>
