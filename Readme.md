@@ -40,19 +40,3 @@
   </a>
 </p>
         
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=qwerty8181&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br><br>
-
-<p><img src="https://image.ibb.co/kHHeny/hor_line.png"></p>
-<br><br><h3><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"><img src="https://img.shields.io/badge/Stats-8A2BE2"/></h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwerty8181&show_icons=true&locale=en&layout=compact" alt="qwerty8181" /></p>
-
-
-<br/>
-<a>
-    
-  </a>
-</body>
